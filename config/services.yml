@@ -1,0 +1,5 @@
+services:
+    alex75.guestsregisterbar.listener:
+        class: alex75\guestsregisterbar\event\listener
+        tags:
+            - { name: event.listener }

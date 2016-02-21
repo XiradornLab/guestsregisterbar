@@ -1,0 +1,55 @@
+/*!* New Style for Bar */
+/*!* Sir Xiradorn Optimize 2016 */
+#topbar11 {
+    position: absolute;
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+    border: {
+        bottom: 2px solid #0077B2;
+    }
+    // padding: 0.8% 0;
+    text: {
+        align: center;
+    }
+    box-shadow: 0 1px 2px darken(#0077B2, 20%);
+    background-color: fade-out(lightyellow, .1);
+    visibility: hidden;
+    z-index: 1000;
+
+    div {
+        position: relative;
+
+        h2 {
+            margin: 30px auto;
+
+            @media screen and (max-width: 700px) {
+                margin: 15px auto;
+            }
+
+            .text-message {
+                display: inline-block;
+                max-width: 70%;
+                font: {
+                    size: .85em
+                }
+
+                @media screen and (max-width: 700px) {
+                    font-size: .7em;
+                }
+            }
+        }
+    }
+
+}
+
+.guestsregisterbar_copy {
+    font: {
+        size: .6em;
+    }
+}
+
+.lock_svg {
+    vertical-align: bottom;
+    width: 25px;
+}
