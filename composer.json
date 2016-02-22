@@ -39,8 +39,7 @@
 	],
 	"require": {
 		"php": ">=5.3.3",
-		"composer/installers": "~1.0",
-		"phpbb/epv": "dev-master"
+		"composer/installers": "~1.0"
 	},
 	"support": {
 		"forum": "http://www.phpbbitalia.net/forum/in-sviluppo-f208/barra-registrazione-ospiti-t12178.html"
