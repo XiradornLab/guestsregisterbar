@@ -5,32 +5,53 @@
   display: block;
   width: 100%;
   margin: 0 auto;
+  top: 0;
+  left: 0;
   border-bottom: 2px solid #0077B2;
   text-align: center;
   box-shadow: 0 1px 2px #00334c;
   background-color: rgba(255, 255, 224, 0.9);
-  visibility: hidden;
   z-index: 1000;
+  /** for nojs coverage */
 }
+
 #topbar11 div {
   position: relative;
 }
+
 #topbar11 div h2 {
-  margin: 30px auto;
+  margin: 25px auto;
 }
+
 @media screen and (max-width: 700px) {
   #topbar11 div h2 {
     margin: 15px auto;
   }
 }
+
 #topbar11 div h2 .text-message {
   display: inline-block;
   max-width: 70%;
-  font-size: 0.85em;
+  font-size: .85em;
 }
+
 @media screen and (max-width: 700px) {
   #topbar11 div h2 .text-message {
     font-size: .7em;
+  }
+}
+
+#topbar11.topbar11-nojs {
+  position: fixed;
+}
+
+#topbar11.topbar11-nojs div h2 {
+  margin: 20px auto;
+}
+
+@media screen and (max-width: 700px) {
+  #topbar11.topbar11-nojs div h2 {
+    margin: 10px auto;
   }
 }
 

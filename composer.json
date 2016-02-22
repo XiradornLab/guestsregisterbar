@@ -5,6 +5,16 @@
 	"homepage": "www.phpbb-store.it",
 	"version": "2.0.4",
 	"time": "2016-02-21",
+	"keywords": [
+		"phpbb",
+		"extension",
+		"guest",
+		"register",
+		"bar",
+		"alex75",
+		"xiradorn",
+		"carlo"
+	],
 	"license": "GPL-2.0",
 	"authors": [
 		{
@@ -20,15 +30,18 @@
 			"role": "Graphic Developer"
 		},
 		{
-	            "name": "Carlo aka Carlino",
-	            "email": "carlo@phpbbitalia.net",
-	            "homepage": "http://www.phpbbitalia.net",
-	            "role": "Javascript Developer"
-	        }
+			"name": "Carlo aka Carlino",
+			"email": "carlo@phpbbitalia.net",
+			"homepage": "http://www.phpbbitalia.net",
+			"role": "Javascript Developer"
+		}
 	],
 	"require": {
 		"php": ">=5.3.3",
 		"composer/installers": "~1.0"
+	},
+	"support": {
+		"forum": "http://www.phpbbitalia.net/forum/in-sviluppo-f208/barra-registrazione-ospiti-t12178.html"
 	},
 	"extra": {
 		"display-name": "Guests Register Bar",

@@ -1,4 +1,23 @@
-/**
+/*!* Sir Xiradorn nojs class remover */
+(function(){
+    var nojs = {
+        init: function() {
+            this.render();
+            this.efx();
+        },
+        render: function() {
+            this.nojsBar = document.getElementById('topbar11');
+        },
+        efx : function() {
+            this.nojsBar.removeAttribute("class");
+        }
+    }
+
+    nojs.init();
+})();
+
+
+/*!*
 * Powered by carlino1994 (www.phpbbitalia.net) and Sir Xiradorn (www.xiradorn.it)
 */
 var persistclose=0 //set to 0 or 1. 1 means once the bar is manually closed, it will remain closed for browser session
