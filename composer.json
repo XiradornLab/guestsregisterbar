@@ -4,6 +4,7 @@
 	"description": "Una barra flottante che incita gli ospiti a registrarsi.",
 	"homepage": "https://github.com/XiradornLab/guestsregisterbar",
 	"version": "2.0.4",
+	"minimum-stability": "stable",
 	"time": "2016-02-21",
 	"keywords": [
 		"phpbb",
