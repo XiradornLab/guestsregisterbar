@@ -15,7 +15,8 @@ if (empty($lang) || !is_array($lang)){
 }
 
 $lang = array_merge($lang, array(
-    'WELC'			=> 'Welcome to',
-    'REGNOW'			=> 'Click here to register',
-    'ORLOGIN'			=> 'or please',
+    'WELC'			=> 'Welcome on',
+    'REGENABLE'	    => 'Register',
+    'REGENABLEOR'   => 'or please do',
+    'REGDISABLE'	=> 'Please',
 ));

@@ -7,9 +7,17 @@
         },
         render: function() {
             this.nojsBar = document.getElementById('topbar11');
+            this.lock1 = document.getElementById('lock1');
+            this.lock2 = document.getElementById('lock2');
+            this.lock1font = document.getElementById('lock1font');
+            this.lock2font = document.getElementById('lock2font');
         },
         efx : function() {
             this.nojsBar.removeAttribute("class");
+            this.lock1.setAttribute("class", "js-hide");
+            this.lock2.setAttribute("class", "js-hide");
+            this.lock1font.removeAttribute("id");
+            this.lock2font.removeAttribute("id");
         }
     }
 

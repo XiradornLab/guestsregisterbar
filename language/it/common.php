@@ -16,6 +16,7 @@ if (empty($lang) || !is_array($lang)) {
 
 $lang = array_merge($lang, array(
     'WELC'			=> 'Benvenuto su',
-    'REGNOW'			=> 'Registrati adesso',
-    'ORLOGIN'			=> 'oppure effettua il',
+    'REGENABLE'	    => 'Registrati',
+    'REGENABLEOR'   => 'oppure effettua il',
+    'REGDISABLE'	=> 'Effettua il',
 ));
