@@ -2,7 +2,7 @@
 	"name": "alex75/guestsregisterbar",
 	"type": "phpbb-extension",
 	"description": "Una barra flottante che incita gli ospiti a registrarsi.",
-	"homepage": "www.phpbb-store.it",
+	"homepage": "http://www.phpbb-store.it",
 	"version": "2.0.4",
 	"time": "2016-02-21",
 	"keywords": [
@@ -20,7 +20,7 @@
 		{
 			"name": "Alessandro Di Benedetto aka alex75",
 			"email": "alex@phpbb-store.it",
-			"homepage": "www.phpbb-store.it",
+			"homepage": "http://www.phpbb-store.it",
 			"role": "Extension Developer"
 		},
 		{
