@@ -20,11 +20,11 @@
 			"role": "Graphic Developer"
 		},
 		{
-            "name": "Carlo aka Carlino",
-            "email": "carlo@phpbbitalia.net",
-            "homepage": "http://www.phpbbitalia.net",
-            "role": "Javascript Developer"
-        }
+	            "name": "Carlo aka Carlino",
+	            "email": "carlo@phpbbitalia.net",
+	            "homepage": "http://www.phpbbitalia.net",
+	            "role": "Javascript Developer"
+	        }
 	],
 	"require": {
 		"php": ">=5.3.3",
