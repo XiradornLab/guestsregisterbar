@@ -23,6 +23,7 @@
 
         h2 {
             margin: 25px auto;
+            position: relative;
 
             @media screen and (max-width: 700px) {
                 margin: 15px auto;
@@ -66,5 +67,7 @@
 
 .lock_svg {
     vertical-align: bottom;
+    // max-width: 25px;
     width: 25px;
+    height: 25px;
 }
