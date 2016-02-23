@@ -3,7 +3,7 @@
 Una comoda barra per invitare le utenze a iscriversi o registrarsi nel forum.  
 Se la registrazione viene disabilitata, automaticamente verrà disabilitata anche dalla barra.  
 Vi sono ben 13 tipologie di lucchetto sostituibili e già precaricate nel font xiradorn.  
-Inoltre essendo questi un normalissimo dont possono essere personalizzati colorandoli a vostro piacimento.  
+Inoltre essendo questi un normalissimo font possono essere personalizzati colorandoli a vostro piacimento.  
 E' stato inoltre predisposto un piccolo tweak che in assenza di js rimpiazza il font svg con una normale png.  
 L'estensione è 100% responsive!!!
 
@@ -26,7 +26,7 @@ Nella versione successiva, verrà impostato un file css dove poter personalizzar
 
 ----
 # Installazione
-Semplicissimo vi basta solo estrarre uno dei file con il nome guestsregisterbar-***** nella cartella
+Semplicissimo vi basta solo estrarre uno dei file con il nome `grb-*****` nella cartella
 `ext` per vedere il percorso seguente `ext/alex/guestsregisterbar`  
 Andate nel PDA e attivate l'estensione  
 **Finito!!!** Non serve altro
@@ -39,7 +39,7 @@ Andate nel PDA e attivate l'estensione
 
 ----
 ## Supporto Ufficiale:  
-Link del supporto uffiale alla nostra estensione qui: [phpbbitalia.net]
+Link del supporto ufficiale alla nostra estensione qui: [phpbbitalia.net]
 
 
 [phpbbitalia.net]: http://www.phpbbitalia.net/forum/in-sviluppo-f208/barra-registrazione-ospiti-t12178.html "phpbbitalia"
