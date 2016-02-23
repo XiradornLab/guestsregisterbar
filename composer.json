@@ -1,10 +1,9 @@
 {
 	"name": "alex75/guestsregisterbar",
 	"type": "phpbb-extension",
-	"description": "Una barra flottante che incita gli ospiti a registrarsi.",
+	"description": "Una barra flottante che invita gli ospiti a registrarsi oppure a loggarsi.",
 	"homepage": "https://github.com/XiradornLab/guestsregisterbar",
-	"version": "2.0.7-RC1",
-	"minimum-stability": "stable",
+	"version": "2.0.8-RC",
 	"time": "2016-02-21",
 	"keywords": [
 		"phpbb",
@@ -14,7 +13,8 @@
 		"bar",
 		"alex75",
 		"xiradorn",
-		"carlo"
+		"carlo",
+		"svg"
 	],
 	"license": "GPL-2.0",
 	"authors": [

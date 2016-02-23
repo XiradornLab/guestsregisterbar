@@ -6,7 +6,7 @@ Una comoda barra per invitare le utenze a iscriversi o registrarsi nel forum.
 Se la registrazione viene disabilitata, automaticamente verrà disabilitata anche dalla barra.
 Vi sono ben 5 tipologie di lucchetto sostituibili e già precaricate nel font xiradorn.   
 Inoltre essendo questi un normalissimo dont possono essere personalizzati colorandoli a vostro piacimento.  
-E' stato inoltre predisposto un piccolo tweak che in assenza di js rimpiazza il font svg con una normale png.
+E' stato inoltre predisposto un piccolo tweak che in assenza di js rimpiazza il font svg con una normale png.  
 L'estensione è 100% responsive!!!
 
 Nella versione successiva, verrà impostato un file css dove poter personalizzare molti aspetti della modifica, come:
